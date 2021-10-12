@@ -1,0 +1,4 @@
+tfaip==1.2.5
+tensorflow~=2.5.0
+tensorflow_text~=2.5.0
+tensorflow_addons~=0.13.0
